@@ -2,5 +2,51 @@ html { box-sizing: border-box; }
 *, ::before, ::after { box-sizing: inherit; }
 
 body {
+    background-color: #cde4f9;
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
 
+
+h1,
+h2,
+h3 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+
+.pariz {
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+    width: 300px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 24px;
+    color: #dc6aa1;
+    margin-top: 48px;
+
+}
+div {
+    color: #dc6aa1;
+    text-align: center;
+}
+.pruvodceparizi {
+    color: #808080;
+    text-align: center;
+    font-size: 24px;
 }
