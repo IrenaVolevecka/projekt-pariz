@@ -26,11 +26,13 @@ h3 {
     margin: 0 auto;
     display: block;
     width: 300px;
+    height: 300px;
 }
 
 h1 {
     font-size: 48px;
     text-align: center;
+    font-style: normal;
 }
 h2 {
     font-size: 32px;
@@ -49,4 +51,10 @@ div {
     color: #808080;
     text-align: center;
     font-size: 24px;
+}
+.hlavicka {
+    background-color: #ffffff;
+}
+.historickepamatky {
+    background-color: #ffffff;
 }
